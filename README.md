@@ -68,3 +68,15 @@ You will need to have the following installed.
 
 
    (Your server is now running. You can access the API at http://localhost:3001.)
+
+   
+[Video Demonstration: How to install and use this application (run time 4:46)](https://drive.google.com/file/d/1ITeqT2yn9MVW296IuBpRRbtV7zGEr-ZV/view)
+
+## Credits
+This project includes starter code provided by UNCC Full-Stack Bootcamp.
+
+## License
+This project is licensed under the MIT license. 
+
+## Questions
+For any questions, please contact me at [JuniperWrenMcGill](https://github.com/JuniperWrenMcGill)
