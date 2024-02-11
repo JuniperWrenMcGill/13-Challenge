@@ -59,7 +59,7 @@ You will need to have the following installed.
 6. Seed the database with sample data:
 
    ```integrated terminal 
-   npm run seeds/index.js
+   node seeds/index.js
 
 5. To run the application you will need to start the server and THEN navigate over to insomnia:
 
@@ -76,7 +76,7 @@ You will need to have the following installed.
    http://localhost:3001/api/tags
 
    
-[Video Demonstration: How to install and use this application (run time 4:46)](https://drive.google.com/file/d/1ITeqT2yn9MVW296IuBpRRbtV7zGEr-ZV/view)
+[Video Demonstration: How to install and use this application (run time 14:37)]([https://drive.google.com/file/d/1ITeqT2yn9MVW296IuBpRRbtV7zGEr-ZV/view](https://drive.google.com/file/d/1Qm9iHSJTSYcPH2uw8vXzzUKeDoYlXRQg/view))
 
 ## Credits
 This project includes starter code provided by UNCC Full-Stack Bootcamp.
