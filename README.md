@@ -71,7 +71,7 @@ You will need to have the following installed.
 
 6. Explore this backend program with insomnia
    ``` insomnia
-   http://localhost:3001/api/catagories
+   http://localhost:3001/api/categories
    http://localhost:3001/api/products
    http://localhost:3001/api/tags
 
