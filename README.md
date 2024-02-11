@@ -76,7 +76,7 @@ You will need to have the following installed.
    http://localhost:3001/api/tags
 
    
-[Video Demonstration: How to install and use this application (run time 14:37)]([https://drive.google.com/file/d/1ITeqT2yn9MVW296IuBpRRbtV7zGEr-ZV/view](https://drive.google.com/file/d/1Qm9iHSJTSYcPH2uw8vXzzUKeDoYlXRQg/view))
+[Video Demonstration: How to install and use this application (run time 14:37)](https://drive.google.com/file/d/1Qm9iHSJTSYcPH2uw8vXzzUKeDoYlXRQg/view)
 
 ## Credits
 This project includes starter code provided by UNCC Full-Stack Bootcamp.
