@@ -29,11 +29,11 @@ You will need to have the following installed.
 2. Open local repo in code editor:
 
    ```bash
-   I used VS code 
+   (I used VS code )
 
 3. Install the necessary packages:
 
-   ```bash
+   ```integrated terminal 
    npm i
    npm i MySql2
    npm i sequelize 
@@ -58,16 +58,22 @@ You will need to have the following installed.
 
 6. Seed the database with sample data:
 
-   ```bash
+   ```integrated terminal 
    npm run seeds/index.js
 
 5. To run the application you will need to start the server and THEN navigate over to insomnia:
 
-   ```bash
+   ```integrated terminal 
    node server.js 
 
 
    (Your server is now running. You can access the API at http://localhost:3001.)
+
+6. Explore this backend program with insomnia
+   ``` insomnia
+   http://localhost:3001/api/catagories
+   http://localhost:3001/api/products
+   http://localhost:3001/api/tags
 
    
 [Video Demonstration: How to install and use this application (run time 4:46)](https://drive.google.com/file/d/1ITeqT2yn9MVW296IuBpRRbtV7zGEr-ZV/view)
