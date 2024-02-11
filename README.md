@@ -35,7 +35,7 @@ You will need to have the following installed.
 
    ```integrated terminal 
    npm i
-   npm i MySql2
+   npm i mysql2
    npm i sequelize 
 
 4. Create a .env file in the root directory and add your MySQL database credentials:
